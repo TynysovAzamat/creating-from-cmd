@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tynysov Azamat\\source\\repos\\StringConectionSQLC#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7224D85C-1503-496D-95FE-D678088338BA}|StringConectionSQLC#\\StringConectionSQLC#.csproj|c:\\users\\tynysov azamat\\source\\repos\\stringconectionsqlc#\\stringconectionsqlc#\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7224D85C-1503-496D-95FE-D678088338BA}|StringConectionSQLC#\\StringConectionSQLC#.csproj|solutionrelative:stringconectionsqlc#\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7224D85C-1503-496D-95FE-D678088338BA}|StringConectionSQLC#\\StringConectionSQLC#.csproj|c:\\users\\tynysov azamat\\source\\repos\\stringconectionsqlc#\\stringconectionsqlc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7224D85C-1503-496D-95FE-D678088338BA}|StringConectionSQLC#\\StringConectionSQLC#.csproj|solutionrelative:stringconectionsqlc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7224D85C-1503-496D-95FE-D678088338BA}|StringConectionSQLC#\\StringConectionSQLC#.csproj|c:\\users\\tynysov azamat\\source\\repos\\stringconectionsqlc#\\stringconectionsqlc#\\stringconectionsqlc#.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7224D85C-1503-496D-95FE-D678088338BA}|StringConectionSQLC#\\StringConectionSQLC#.csproj|solutionrelative:stringconectionsqlc#\\stringconectionsqlc#.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Tynysov Azamat\\source\\repos\\StringConectionSQLC#\\StringConectionSQLC#\\App.config",
+              "RelativeDocumentMoniker": "StringConectionSQLC#\\App.config",
+              "ToolTip": "C:\\Users\\Tynysov Azamat\\source\\repos\\StringConectionSQLC#\\StringConectionSQLC#\\App.config",
+              "RelativeToolTip": "StringConectionSQLC#\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-02-10T17:17:19.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tynysov Azamat\\source\\repos\\StringConectionSQLC#\\StringConectionSQLC#\\Program.cs",
+              "RelativeDocumentMoniker": "StringConectionSQLC#\\Program.cs",
+              "ToolTip": "C:\\Users\\Tynysov Azamat\\source\\repos\\StringConectionSQLC#\\StringConectionSQLC#\\Program.cs",
+              "RelativeToolTip": "StringConectionSQLC#\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T16:16:35.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StringConectionSQLC#.csproj",
+              "DocumentMoniker": "C:\\Users\\Tynysov Azamat\\source\\repos\\StringConectionSQLC#\\StringConectionSQLC#\\StringConectionSQLC#.csproj",
+              "RelativeDocumentMoniker": "StringConectionSQLC#\\StringConectionSQLC#.csproj",
+              "ToolTip": "C:\\Users\\Tynysov Azamat\\source\\repos\\StringConectionSQLC#\\StringConectionSQLC#\\StringConectionSQLC#.csproj",
+              "RelativeToolTip": "StringConectionSQLC#\\StringConectionSQLC#.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-10T17:05:48.545Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
