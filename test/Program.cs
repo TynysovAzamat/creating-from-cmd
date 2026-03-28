@@ -6,5 +6,6 @@
     {
         Console.WriteLine("test");
         Console.Write("hi3");
+        Console.Beep();
     }
 }
